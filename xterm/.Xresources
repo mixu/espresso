@@ -1,0 +1,5 @@
+XTerm*background: #2A211C
+XTerm*foreground: #BDAE9D
+XTerm*scrollBar: false
+XTerm*scrollKey: true
+
