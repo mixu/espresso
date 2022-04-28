@@ -4,8 +4,10 @@ A dark color scheme with minimal visual noise (e.g. only a few distracting prima
 
 Available for:
 
-- Sublime Text 2
+- VsCode
+- Sublime Text 2 / 3
 - Guake (dropdown console)
+- xterm
 - Netbeans
 
 ## Screenshot
